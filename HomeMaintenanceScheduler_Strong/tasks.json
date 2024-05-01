@@ -1,0 +1,418 @@
+[
+    {
+        "description": "Replace air filters",
+        "due_date": "2024-07-29",
+        "category": "HVAC",
+        "frequency": "3 months",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Check thermostat operation",
+        "due_date": "2025-04-30",
+        "category": "HVAC",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Clean evaporator and condenser coils",
+        "due_date": "2025-04-30",
+        "category": "HVAC",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Inspect for duct leakage",
+        "due_date": "2026-04-30",
+        "category": "HVAC",
+        "frequency": "2 years",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Flush condensate drain",
+        "due_date": "2025-04-30",
+        "category": "HVAC",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Inspect faucets for leaks",
+        "due_date": "2025-04-30",
+        "category": "Plumbing",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": 0
+    },
+    {
+        "description": "Inspect toilets for leaks and efficiency",
+        "due_date": "2025-04-30",
+        "category": "Plumbing",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Drain and flush the water heater",
+        "due_date": "2025-04-30",
+        "category": "Plumbing",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect pipes for signs of leaks or corrosion",
+        "due_date": "2025-04-30",
+        "category": "Plumbing",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Winterize outdoor faucets",
+        "due_date": "2025-04-30",
+        "category": "Plumbing",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Test smoke and carbon monoxide detectors",
+        "due_date": "2024-05-30",
+        "category": "Electrical",
+        "frequency": "monthly",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect and test GFC outlets",
+        "due_date": "2024-10-27",
+        "category": "Electrical",
+        "frequency": "6 months",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Test and dust light fixtures",
+        "due_date": "2025-04-30",
+        "category": "Electrical",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Ensure proper wattage in all fixtures",
+        "due_date": "2025-04-30",
+        "category": "Electrical",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Tighten any loose outlets or switch covers",
+        "due_date": "2025-04-30",
+        "category": "Electrical",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean refrigerator coils",
+        "due_date": "2024-10-27",
+        "category": "Appliances",
+        "frequency": "6 months",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean and inspect the dryer vent",
+        "due_date": "2025-04-30",
+        "category": "Appliances",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean dishwasher and check for leaks",
+        "due_date": "2024-10-27",
+        "category": "Appliances",
+        "frequency": "6 months",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean oven and check gasket seals",
+        "due_date": "2025-04-30",
+        "category": "Appliances",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean and deodorize garbage disposal",
+        "due_date": "2024-10-27",
+        "category": "Appliances",
+        "frequency": "6 months",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect fire extinguishers for expiration and pressure",
+        "due_date": "2025-04-30",
+        "category": "Safety Equipment",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Replace batteries in smoke and carbon monoxide detectors",
+        "due_date": "2025-04-30",
+        "category": "Safety Equipment",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Check and restock emergency preparedness kits",
+        "due_date": "2025-04-30",
+        "category": "Safety Equipment",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect window locks and door deadbolts",
+        "due_date": "2025-04-30",
+        "category": "Safety Equipment",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Check the operation of all emergency egress windows",
+        "due_date": "2025-04-30",
+        "category": "Safety Equipment",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Clean gutters and downspouts",
+        "due_date": "2025-04-30",
+        "category": "Exterior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect the roof for damage",
+        "due_date": "2025-04-30",
+        "category": "Exterior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Seal cracks and gaps in windows and doors",
+        "due_date": "2025-04-30",
+        "category": "Exterior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Check the siding for damage or rot",
+        "due_date": "2025-04-30",
+        "category": "Exterior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Trim trees and shrubs away from the house",
+        "due_date": "2025-04-30",
+        "category": "Exterior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Fix or lubricate squeaky doors",
+        "due_date": "2025-04-30",
+        "category": "Interior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Caulk around showers and tubs",
+        "due_date": "2027-04-30",
+        "category": "Interior",
+        "frequency": "3 years",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect and clean window tracks",
+        "due_date": "2025-04-30",
+        "category": "Interior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect and tighten hardware and fixtures",
+        "due_date": "2025-04-30",
+        "category": "Interior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Lubricate garage door springs",
+        "due_date": "2025-04-30",
+        "category": "Interior",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Aerate lawn",
+        "due_date": "2025-04-30",
+        "category": "Lawn and Garden",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Prune trees and shrubs",
+        "due_date": "2025-04-30",
+        "category": "Lawn and Garden",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Fertilize lawn",
+        "due_date": "2025-04-30",
+        "category": "Lawn and Garden",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Mulch garden beds",
+        "due_date": "2025-04-30",
+        "category": "Lawn and Garden",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Inspect and repair sprinkler system",
+        "due_date": "2025-04-30",
+        "category": "Lawn and Garden",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Inspect for termites",
+        "due_date": "2025-04-30",
+        "category": "Pest Control",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Seal potential pest entry points",
+        "due_date": "2025-04-30",
+        "category": "Pest Control",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Treat for ants and roaches as needed",
+        "due_date": "2025-04-30",
+        "category": "Pest Control",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Check attic and basement for signs of pests",
+        "due_date": "2025-04-30",
+        "category": "Pest Control",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Remove standing water to deter mosquitoes",
+        "due_date": "2024-05-07",
+        "category": "Pest Control",
+        "frequency": "weekly",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Fall Check weather stripping and insulation",
+        "due_date": "2025-04-30",
+        "category": "Seasonal",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Prepare for extreme weather conditions",
+        "due_date": "2025-04-30",
+        "category": "Seasonal",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Fall Service heating system",
+        "due_date": "2025-04-30",
+        "category": "Seasonal",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Spring Service cooling system",
+        "due_date": "2025-04-30",
+        "category": "Seasonal",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "Fall Cover or store outdoor furniture",
+        "due_date": "2025-04-30",
+        "category": "Seasonal",
+        "frequency": "annually",
+        "priority": 3,
+        "is_completed": false
+    },
+    {
+        "description": "test1",
+        "due_date": "2024-04-30",
+        "category": "HVAC",
+        "frequency": "weekly",
+        "priority": 1,
+        "is_completed": 2
+    },
+    {
+        "description": "test1",
+        "due_date": "2024-04-30",
+        "category": "HVAC",
+        "frequency": "annual",
+        "priority": 1,
+        "is_completed": 2
+    }
+]
